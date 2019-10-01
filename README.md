@@ -16,4 +16,4 @@ Load the template with the VBA code.
 
 Press 'Start game' and game will initialise asking the names of both players. This is an offline local game with only two players at once. Press 'Reset' after a game has ended or to exit a match midway.
 
-! [Screenshot] (https://raw.github.com/wenqiho7/black-and-white-game/blob/master/points%20game.jpeg)
+! [ScreenShot] (https://raw.github.com/wenqiho7/black-and-white-game/blob/master/points%20game.jpeg)
